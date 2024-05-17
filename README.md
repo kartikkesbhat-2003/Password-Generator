@@ -15,7 +15,7 @@ Check out the live demo [here](https://enigmakey.netlify.app/).
 
 ## Screenshots
 
-![Screenshot of the Password Generator](/assets/screenshot.png)
+![Screenshot of the Password Generator](./assets/screenshot.png)
 
 ## Getting Started
 
