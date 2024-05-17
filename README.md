@@ -9,13 +9,14 @@ A simple and secure password generator application built with HTML, CSS, and Jav
 - **Copy to Clipboard**: Easily copy the generated password to your clipboard.
 - **Adjustable Password Length**: Choose the desired length of your password.
 
+
 ## Demo
 
 Check out the live demo [here](https://enigmakey.netlify.app/).
 
 ## Screenshots
 
-![Screenshot of the Password Generator](./assets/screenshot.png)
+![Screenshot of the Password Generator](https://github.com/kartikkesbhat-2003/Password-Generator/blob/main/assets/Screenshot.png)
 
 ## Getting Started
 
