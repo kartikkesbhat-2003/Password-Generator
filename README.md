@@ -15,18 +15,27 @@ Check out the live demo [here](https://enigmakey.netlify.app/).
 
 ## Screenshots
 
-![Screenshot of the Password Generator](assets/screenshot.PNG)
+![Screenshot of the Password Generator](/assets/screenshot.png)
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+To get started with the Weather Application, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+
+    ```
+    git clone https://github.com/kartikkesbhat-2003/Password-Generator.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```
+    cd Password-generator
+    ```
+
+3. Open the `index.html` file in your preferred web browser.
 
 ### Prerequisites
 
 You will need a web browser to run this application.
 
-### Installation
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/kartikkesbhat-2003/Password-Generator.git
